@@ -1,0 +1,5 @@
+Colors
+  HEX: #fefbd8
+  HEX: #618685
+  HEX: #36486b
+  HEX: #4040a1
